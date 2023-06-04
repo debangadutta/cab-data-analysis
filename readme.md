@@ -7,7 +7,7 @@ In this project, we perform data analytics on Uber data using various tools and 
 ### Softwares and Tools Required
 
 1. [Github](https://github.com)
-2. [Lucidchart] (https://lucid.app)
+2. [Lucidchart](https://lucid.app)
 3.
 
 ### Data Model
