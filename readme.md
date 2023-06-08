@@ -10,8 +10,7 @@ In this project, we perform data analytics on Uber data using various tools and 
 2. [Lucidchart](https://lucid.app) - for making the data model
 3. [Google Cloud](https://console.google.cloud.com) - for storage and compute
 4. [Mage](https://mage.ai) - for data pipelines/scheduling
-
+5. [Looker Studio](lookerstudio.google.com) - for dashboards
 
 ### Data Model
 <img src="data_model.png">
-
